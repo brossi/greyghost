@@ -23,8 +23,6 @@ Stroke : 2.7 in | 69 mm.
 
 ## Body
 
-([Color Sample](http://www.thegoldenbug.com/images/vw_technical_articles/109_68_65k_limegreen.jpg))
-
 ![Ravenna Green](https://s31.postimg.org/r4oai0w6j/65k_limegreen.gif)
 
 **Color Name** | **Paint Code** | **VW Code**
