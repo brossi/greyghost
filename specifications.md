@@ -8,7 +8,7 @@ Mfg: Volkswagenwerk AG
 
 Production Date: 06/1974
 
-### Engine Details
+## Engine Details
 ([Link to original manual](http://www.thesamba.com/vw/archives/manuals/74ghia/page54.jpg))
 
 Engine Type : O4 1585 cc | 96.7 cu in. | 1.6 L.
@@ -21,17 +21,17 @@ Bore : 3.4 in | 85 mm.
 
 Stroke : 2.7 in | 69 mm. 
 
-### Body
+## Body
 
 ([Color Sample](http://www.thegoldenbug.com/images/vw_technical_articles/109_68_65k_limegreen.jpg))
 
-Color: Ravenna Green
+![Ravenna Green](https://s31.postimg.org/r4oai0w6j/65k_limegreen.gif)
 
-Paint Code: L65K
+**Color Name** | **Paint Code** | **VW Code**
+---------------|----------------|--------------
+Ravenna Green | L65K | 33
 
-VW Code: 33
-
-### Interior
+## Interior
 
 **Component** | **Color** | **Notes**
 --------------|-----------|------------
