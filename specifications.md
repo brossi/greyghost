@@ -34,7 +34,7 @@ VW Code: 33
 ### Interior
 
 **Component** | **Color** | **Notes**
-==============|===========|==========
+--------------|-----------|------------
 Carpet | Beige | _More research needed to determine if there are any different colors used in different locations_
 Seats | Beige | Leatherette with beige cloth inserts
 Door Panels | Beige | Interior door covering, vinyl
