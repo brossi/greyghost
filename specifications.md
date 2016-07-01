@@ -11,6 +11,8 @@ Production Date: 06/1974
 ## Engine Details
 ([Link to original manual](http://www.thesamba.com/vw/archives/manuals/74ghia/page54.jpg))
 
+Engine Number: B5546AD338916 (hard to read)
+
 Engine Type : O4 1585 cc | 96.7 cu in. | 1.6 L.
 
 46 HP (33.856 KW) @ 4000 RPM
