@@ -5,6 +5,7 @@ Previous restoration work details: http://greyghostsgreenghia.blogspot.com/
  * Research what it would take to include a sway bar for improved stability and handling
  * 12v wiper conversion and washers
  * Improved head, tail, and brake lighting (LED?)
+ * Shift the position of the battery from the engine compartment to under the shelf behind the passenger's seat
 
 ## Recommendations
  * For interior work:
