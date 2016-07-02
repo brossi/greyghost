@@ -18,6 +18,6 @@ Previous restoration work details: http://greyghostsgreenghia.blogspot.com/
  > LA  90042  
  > 323.340.4095  
 
-* For questions about the interior:
+ * For questions about the interior:
 
-> [The Aussie Trimmer](http://www.thesamba.com/vw/forum/profile.php?mode=viewprofile&u=76750) of Trimtech Restoration Co.
+ > [The Aussie Trimmer](http://www.thesamba.com/vw/forum/profile.php?mode=viewprofile&u=76750) of Trimtech Restoration Co.
