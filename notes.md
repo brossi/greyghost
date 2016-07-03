@@ -12,6 +12,7 @@ Previous restoration work details: http://greyghostsgreenghia.blogspot.com/
 ## Recommendations and Resources
 
  * Interior component sourcing: http://www.newtoncomm.co.uk/cars/vw-karmann-ghia/model-123/
+ * Floor mats sourcing: http://www.mamotorworks.com/VW/product/coir-floor-mats-4-pc-set-1
 
  * For interior work:
  
