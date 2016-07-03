@@ -10,6 +10,9 @@ Previous restoration work details: http://greyghostsgreenghia.blogspot.com/
  * Shift the position of the battery from the engine compartment to under the shelf behind the passenger's seat
 
 ## Recommendations and Resources
+
+ * Interior component sourcing: http://www.newtoncomm.co.uk/cars/vw-karmann-ghia/model-123/
+
  * For interior work:
  
  > Valdez Auto Upholstery  
